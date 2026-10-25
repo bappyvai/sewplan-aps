@@ -1,0 +1,6 @@
+{
+  "name": "SewPlan APS - Garment Production Planning System",
+  "description": "Enterprise Advanced Planning & Scheduling (APS) system for garment manufacturing featuring multi-line Gantt planning, SAH capacity calculation, workcenter splitting, shift masters, and material delay tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
